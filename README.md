@@ -1,1 +1,2 @@
-# this is a repository for learning web development
+# this is a repository for learning web creation
+
